@@ -140,5 +140,3 @@ Root:
 
 Creative Commons Attribution-NonCommercial (CC BY-NC) 4.0 International License
 
-You can not use the code and data for commercial purposes.
-
